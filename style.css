@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    font-family: 'Source Code Pro', monospace;
+}
+.container{
+    text-align: center;
+    padding: 30px;
+    height: 100vh;
+}
+.titulo {
+    margin: 0 0 5px;
+}
+.subtitle {
+    margin-top: -2px;
+}
+input {
+    margin-top: -30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+button {
+    margin-top: 2px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+}
+h2 {
+    color: green;
+    font-size: 30px;
+  }
